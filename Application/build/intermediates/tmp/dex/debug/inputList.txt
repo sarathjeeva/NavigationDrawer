@@ -1,0 +1,9 @@
+/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/classes/debug
+/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-8309979cb7a7167b9849864abfe5ef5dcff9e8d4.jar
+/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-92830e1c09cddfa621e02ffda28937a37c3ef5ba.jar
+/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-f1a685232a86f2327ffd4296fbaa6f2026307278.jar
+/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-1ee25793e0716496016a23f1a39a4ecb52a8eca1.jar
+/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-1353d10db756355ab5eb9aa4bf5fc3f57254c71d.jar
+/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-eb7fbd89acf7f297c2eaf8d6fd060038a63fbce4.jar
+/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-20cd3d64e78f66d18ffec6873a7f5fca794c2f83.jar
+/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-840f88023c5a40d1cbafe2c5ee690731ede7b518.jar

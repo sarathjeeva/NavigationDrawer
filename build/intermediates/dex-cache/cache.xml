@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sarath_ak/ubuntu_ext4/android_tools/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-92830e1c09cddfa621e02ffda28937a37c3ef5ba.jar" />
+    </item>
+    <item
+        jar="/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-20cd3d64e78f66d18ffec6873a7f5fca794c2f83.jar" />
+    </item>
+    <item
+        jar="/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-840f88023c5a40d1cbafe2c5ee690731ede7b518.jar" />
+    </item>
+    <item
+        jar="/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-f1a685232a86f2327ffd4296fbaa6f2026307278.jar" />
+    </item>
+    <item
+        jar="/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-8309979cb7a7167b9849864abfe5ef5dcff9e8d4.jar" />
+    </item>
+    <item
+        jar="/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-1ee25793e0716496016a23f1a39a4ecb52a8eca1.jar" />
+    </item>
+    <item
+        jar="/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-1353d10db756355ab5eb9aa4bf5fc3f57254c71d.jar" />
+    </item>
+    <item
+        jar="/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4796f18d3750bf2bfa078407a94a7f9db35b440d">
+        <dex dex="/home/sarath_ak/ubuntu_ext4/Android/Android examples/NavigationDrawer/Application/build/intermediates/pre-dexed/debug/classes-eb7fbd89acf7f297c2eaf8d6fd060038a63fbce4.jar" />
+    </item>
+
+</items>
