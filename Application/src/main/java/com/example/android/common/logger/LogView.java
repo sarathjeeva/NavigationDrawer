@@ -35,7 +35,7 @@ public class LogView extends TextView implements LogNode {
     public LogView(Context context, AttributeSet attrs, int defStyle) {
         super(context, attrs, defStyle);
     }
-//SARATH
+            //SARATH
     /**
      * Formats the log data and prints it out to the LogView.
      * @param priority Log level of the data being logged.  Verbose, Error, etc.
